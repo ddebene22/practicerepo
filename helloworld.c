@@ -1,11 +1,11 @@
 
-#inlclude<stdio.h>
+#include<stdio.h>
 
-int main () {
+int main (void) {
 
-printf("Hello World"):
-
-return 0;
+printf("Hello World");
+printf("Hello again");
+return (0);
 } 
 
 
